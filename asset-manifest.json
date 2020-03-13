@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f1e15b2.chunk.css",
-    "main.js": "/static/js/main.9edad1cc.chunk.js",
-    "main.js.map": "/static/js/main.9edad1cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f107c2ba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f107c2ba.js.map",
-    "static/js/2.6ef34511.chunk.js": "/static/js/2.6ef34511.chunk.js",
-    "static/js/2.6ef34511.chunk.js.map": "/static/js/2.6ef34511.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.65cbbf2a2aa048ec425520858f1d59f1.js": "/precache-manifest.65cbbf2a2aa048ec425520858f1d59f1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1f1e15b2.chunk.css.map": "/static/css/main.1f1e15b2.chunk.css.map",
-    "static/js/2.6ef34511.chunk.js.LICENSE.txt": "/static/js/2.6ef34511.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/bar-bartender-beer-commerce.f39bf12b.jpg",
-    "static/media/home-1-slider-image-1.jpg": "/static/media/home-1-slider-image-1.421737d8.jpg",
-    "static/media/home-1-slider-image-2.jpg": "/static/media/home-1-slider-image-2.bb3cfbf5.jpg",
-    "static/media/home-1-slider-image-3.jpg": "/static/media/home-1-slider-image-3.d7e1cfc7.jpg",
-    "static/media/section_coffee.png": "/static/media/section_coffee.c10b49f1.png"
+    "main.css": "/testing/static/css/main.9034465e.chunk.css",
+    "main.js": "/testing/static/js/main.498ffb73.chunk.js",
+    "main.js.map": "/testing/static/js/main.498ffb73.chunk.js.map",
+    "runtime-main.js": "/testing/static/js/runtime-main.8263f458.js",
+    "runtime-main.js.map": "/testing/static/js/runtime-main.8263f458.js.map",
+    "static/js/2.6ef34511.chunk.js": "/testing/static/js/2.6ef34511.chunk.js",
+    "static/js/2.6ef34511.chunk.js.map": "/testing/static/js/2.6ef34511.chunk.js.map",
+    "index.html": "/testing/index.html",
+    "precache-manifest.05b0304a84ca1c7e02b99b44deeaef28.js": "/testing/precache-manifest.05b0304a84ca1c7e02b99b44deeaef28.js",
+    "service-worker.js": "/testing/service-worker.js",
+    "static/css/main.9034465e.chunk.css.map": "/testing/static/css/main.9034465e.chunk.css.map",
+    "static/js/2.6ef34511.chunk.js.LICENSE.txt": "/testing/static/js/2.6ef34511.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/testing/static/media/bar-bartender-beer-commerce.f39bf12b.jpg",
+    "static/media/home-1-slider-image-1.jpg": "/testing/static/media/home-1-slider-image-1.421737d8.jpg",
+    "static/media/home-1-slider-image-2.jpg": "/testing/static/media/home-1-slider-image-2.bb3cfbf5.jpg",
+    "static/media/home-1-slider-image-3.jpg": "/testing/static/media/home-1-slider-image-3.d7e1cfc7.jpg",
+    "static/media/section_coffee.png": "/testing/static/media/section_coffee.c10b49f1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f107c2ba.js",
+    "static/js/runtime-main.8263f458.js",
     "static/js/2.6ef34511.chunk.js",
-    "static/css/main.1f1e15b2.chunk.css",
-    "static/js/main.9edad1cc.chunk.js"
+    "static/css/main.9034465e.chunk.css",
+    "static/js/main.498ffb73.chunk.js"
   ]
 }
